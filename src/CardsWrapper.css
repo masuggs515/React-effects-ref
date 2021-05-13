@@ -1,0 +1,19 @@
+.CardsWrapper{
+    position: relative;
+    padding-top: 5vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+}
+
+.CardsWrapper-button{
+    background-color: grey;
+    border: 2px solid white;
+    border-radius: 10px;
+    font-size: 25px;
+    margin-bottom: 3vh;
+    padding: 8px 15px;
+}
+
